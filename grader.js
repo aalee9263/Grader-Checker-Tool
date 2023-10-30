@@ -19,7 +19,7 @@ function gradeCheck(event) {
     } else if (gradeInput >= 50){
         message = "Your grade is C"
     } else if (gradeInput >= 0) {
-        message = "F"
+        message = "Your grade is F"
     } else {
         message = "Enter number between 0-100"
     }

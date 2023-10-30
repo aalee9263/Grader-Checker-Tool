@@ -1,0 +1,23 @@
+#mainForm{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#form{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 4px;
+    max-width: ;
+    font-size: 26px;
+    
+}
+
+#gradeInput{
+    border-radius: 4px;
+    font-weight: 700;
+    font-size: 25px;
+    margin-top: 10px;
+
+}
